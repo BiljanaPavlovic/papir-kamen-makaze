@@ -1,0 +1,21 @@
+/** @format */
+* {
+  margin: 15px;
+  text-align: center;
+  font-size: larger;
+  background-color: #007194;
+  background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
+}
+body {
+  margin-top: 10em;
+}
+h2 {
+  font-size: 3em;
+}
+button {
+  font-size: 8em;
+  border: solid 10px rgba(34, 105, 110, 0.918);
+  border-radius: 50%;
+  width: 350px;
+  height: 350px;
+}
