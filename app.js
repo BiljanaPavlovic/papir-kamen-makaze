@@ -37,7 +37,7 @@ function getResult() {
         result = 'you win! &#127942;'
     }
     if (computerChoice === 'rock' && userChoice === 'scissors') {
-        result = 'you lost! &#10060;'
+        result = 'you lose! &#10060;'
     }
     if (computerChoice === 'paper' && userChoice === 'scissors') {
         result = 'you win! &#127942;'
@@ -53,4 +53,6 @@ function getResult() {
     }
     resultDisplay.innerHTML = result;
 }
+
+
 

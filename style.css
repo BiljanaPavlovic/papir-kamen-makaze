@@ -7,15 +7,15 @@
   background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
 }
 body {
-  margin-top: 10em;
+  margin-top: 10vh;
 }
 h2 {
-  font-size: 3em;
+  font-size: 5vw;
 }
 button {
-  font-size: 8em;
+  font-size: 10vw;
   border: solid 10px rgba(34, 105, 110, 0.918);
   border-radius: 50%;
-  width: 350px;
-  height: 350px;
+  width: 20vw;
+  height: 20vw;
 }
